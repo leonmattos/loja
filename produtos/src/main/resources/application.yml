@@ -10,5 +10,5 @@ spring:
     show-sql: true
 
   rabbitmq:
-    addresses: amqps://iriisfhm:crP_OvtGU67-WxQ1ER7zeRPLBapMJtj1@shrimp.rmq.cloudamqp.com/iriisfhm
+    addresses: xxxxx
     queue: ms.categoria
